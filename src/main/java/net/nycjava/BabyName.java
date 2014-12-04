@@ -16,9 +16,9 @@ class BabyName {
         number = aNumber;
     }
 
-//    long getNumber() {
-//        return number;
-//    }
+    long getNumber() {
+        return number;
+    }
 
     @Override
     public String toString() {
